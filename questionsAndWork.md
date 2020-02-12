@@ -1,0 +1,18 @@
+- Table of contents
+- One Use Case Diagram for 1 activity. Use Case Description
+    - Manage: Jingsong Tan
+- Three Activity Diagrams for 1 activity each
+    - Login: Ian Anderson
+    - Search Students in a course: Jonathon
+    - ?Grade Assignment: Jingsong Tan????
+- Class Diagram for 1 activity
+    - View assignments: Jonathon
+- Entity Relationship Diagram for whole system
+    - All members
+- Sequence Diagram for 1 activity
+    - Upload: Ian
+- State Machine Diagram
+    - Submit Assignment: All member
+- Everyone Must:
+    - Contribute to 3 total diagrams
+    - Contribute to at least 1 activity diagram
