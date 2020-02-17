@@ -4,7 +4,7 @@
 - Three Activity Diagrams for 1 activity each
     - Login: Ian Anderson
     - Search Students in a course: Jonathon
-    - ?Grade Assignment: Jingsong Tan????
+    - Collect Assignment: Jingsong Tan????
 - Class Diagram for 1 activity
     - View assignments: Jonathon
 - Entity Relationship Diagram for whole system
